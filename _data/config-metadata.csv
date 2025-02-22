@@ -1,0 +1,17 @@
+field,display_name,browse_link,external_link
+title,Title,
+author,Author,
+location,Place of Publication,
+publisher,Publisher,
+date,Date,
+institution,Holding Institution,
+description,Description,
+subject,Subjects,true
+latitude,Latitude
+longitude,Longitude
+source,Source
+identifier,Source Identifier,,
+type,Type,
+format,Format,
+rights,Rights,
+rightsstatement,Rights Statement,,true
